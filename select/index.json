@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Signs",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2026-02-13T02:23:02.093057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Signs",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Signs_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Signs",
+      "artist": "Young Thug & Bloody Jay",
+      "has_synced": true,
+      "path": "select/02_Signs_Young_Thug_&_Bloody_Jay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gang Signs",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/03_Gang_Signs_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Signs of Jealousy",
+      "artist": "Lil Skies",
+      "has_synced": true,
+      "path": "select/04_Signs_of_Jealousy_Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Signs of Love",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/05_Signs_of_Love_Moby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Signs Of Love",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/06_Signs_Of_Love_Moby.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vital Signs",
+      "artist": "Midnight Juggernauts",
+      "has_synced": true,
+      "path": "select/07_Vital_Signs_Midnight_Juggernauts.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Signs",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/08_Signs_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Signs",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/09_Your_Signs_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dollar Signs",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/10_Dollar_Signs_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Signs",
+      "artist": "Snoop Dogg feat. Charlie Wilson & Justin Timberlake",
+      "has_synced": true,
+      "path": "select/11_Signs_Snoop_Dogg_feat._Charlie_Wilson_&_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Signs of Life",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_All_Signs_of_Life_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Signs",
+      "artist": "Tink",
+      "has_synced": false,
+      "path": "select/13_Signs_Tink.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tell Tale Signs",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/14_Tell_Tale_Signs_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tell Tale Signs",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/15_Tell_Tale_Signs_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Signs In The Leaves",
+      "artist": "Azure Ray",
+      "has_synced": true,
+      "path": "select/16_Signs_In_The_Leaves_Azure_Ray.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Future Signs",
+      "artist": "Fleurie",
+      "has_synced": true,
+      "path": "select/17_Future_Signs_Fleurie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Signs",
+      "artist": "Badmarsh & Shri",
+      "has_synced": false,
+      "path": "select/18_Signs_Badmarsh_&_Shri.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Signs - Armand Van Helden Remix",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/19_Signs_-_Armand_Van_Helden_Remix_Bloc_Party.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Signs",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_Signs_Takanashi_Kiara.txt"
+    }
+  ]
+}
